@@ -149,9 +149,3 @@ Spring WebSocket 공식 문서
 STOMP 프로토콜
 
 SockJS
-
-
-
-
-
-ChatGPT는 실수를 할 수 있습니다. 중요한 정보는 재차 확인하세요.
