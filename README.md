@@ -17,27 +17,7 @@
   - Ubuntu Linux (서버 실행)  
   - 공인 IP + 포트포워딩을 통해 외부 접속 가능
 
----
 
-## 📂 프로젝트 구조
-
-chat-app/
-├── server/ # Spring Boot 백엔드
-│ ├── src/main/java/com/chat/wschatting/
-│ │ ├── WSchattingApplication.java
-│ │ ├── config/WebSocketConfig.java
-│ │ ├── controller/ChatController.java
-│ │ └── model/ChatMessage.java
-│ ├── src/main/resources/application.yml
-│ └── pom.xml
-└── client/ # React 프론트엔드
-├── public/index.html
-└── src/
-├── App.js
-├── App.css
-└── index.js
-
----
 
 ## ⚙️ 주요 코드
 
